@@ -56,7 +56,7 @@ var thirdPartyServicesJsonArray = [
   {
     name: "Facebook",
     model: "facebook",
-    facebook: false,
+    facebook: true,
     logo: "images/facebook.png",
     link: {
       privacy: "https://www.facebook.com/about/privacy/update/printable",
